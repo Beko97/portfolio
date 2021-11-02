@@ -57,7 +57,7 @@ header {
 .mainVisual {
     height: 100vh;
     overflow: hidden;
-    padding: 100px 0 45px 20%;
+    padding: 110px 0 45px 20%;
     position: relative;
 }
 
@@ -84,7 +84,7 @@ header {
     font-size: 2rem;
     letter-spacing: 3px;
     position: absolute;
-    bottom: 10%;
+    bottom: 1%;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
@@ -292,6 +292,8 @@ footer {padding: 25px 0;}
         content: "";
         transform: rotate(-90deg);
     }
+    
+    .mainVisual {padding: 100px 0 45px 20%;}
 
     .mainVisual_image {
         margin-top: 60px;
@@ -310,6 +312,8 @@ footer {padding: 25px 0;}
         font-size: 1.6rem;
         margin-top: 15px;
     }
+    
+    .mainVisual_scroll {bottom: 10%;}
 
     .pageUp {
         width: 12%;
