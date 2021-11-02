@@ -57,7 +57,7 @@ header {
 .mainVisual {
     height: 100vh;
     overflow: hidden;
-    padding: 110px 0 45px 20%;
+    padding: 100px 0 45px 20%;
     position: relative;
 }
 
@@ -84,7 +84,7 @@ header {
     font-size: 2rem;
     letter-spacing: 3px;
     position: absolute;
-    bottom: 1%;
+    bottom: 10%;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
