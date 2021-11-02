@@ -292,6 +292,8 @@ footer {padding: 25px 0;}
         content: "";
         transform: rotate(-90deg);
     }
+    
+    .mainVisual {padding: 100px 0 45px 20%;}
 
     .mainVisual {padding: 100px 0 45px 20%;}
 
@@ -312,6 +314,8 @@ footer {padding: 25px 0;}
         font-size: 1.6rem;
         margin-top: 15px;
     }
+    
+    .mainVisual_scroll {bottom: 10%;}
 
     .mainVisual_scroll {
         bottom: 10%;
