@@ -314,11 +314,7 @@ footer {padding: 25px 0;}
         margin-top: 15px;
     }
 
-    .mainVisual_scroll {bottom: 10%;}
-
-    .mainVisual_scroll {
-        bottom: 10%;
-    }
+    .mainVisual_scroll {bottom: 15%;}
 
     .pageUp {
         min-width: 65px;
