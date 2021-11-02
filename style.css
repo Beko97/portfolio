@@ -293,6 +293,8 @@ footer {padding: 25px 0;}
         transform: rotate(-90deg);
     }
 
+    .mainVisual {padding: 100px 0 45px 20%;}
+
     .mainVisual_image {
         margin-top: 60px;
         width: 120%;
@@ -309,6 +311,10 @@ footer {padding: 25px 0;}
     .mainVisual_subtit {
         font-size: 1.6rem;
         margin-top: 15px;
+    }
+
+    .mainVisual_scroll {
+        bottom: 10%;
     }
 
     .pageUp {
