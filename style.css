@@ -320,8 +320,9 @@ footer {padding: 25px 0;}
     }
 
     .pageUp {
-        width: 12%;
+        display: none.
         min-width: 65px;
+        width: 12%;
     }
 }
 
