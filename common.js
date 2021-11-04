@@ -21,7 +21,6 @@ $(function(){
   $(window).scroll(function(){
     var topH = parseInt($('#fadeIn').offset().top);
     var scroll = parseInt($(window).scrollTop());
-    //var windowH = parseInt($(window).height());
     if (scroll > (topH - windowH)) {
       $('.pageUp').fadeIn(500);
     } else if (scroll < (topH - windowH)) {
