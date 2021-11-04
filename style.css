@@ -53,6 +53,7 @@ header {
 }
 
 #hamburger {display: none;}
+
 /*firstView*/
 .mainVisual {
     height: 100vh;
@@ -64,7 +65,6 @@ header {
 .mainVisual_image {
     width: 62%;
     min-width: 767px;
-    /*position: absolute;*/
     right: 0;
     top: 17%;
     margin: 16px 0 0 auto;
@@ -291,7 +291,7 @@ footer {padding: 25px 0;}
         transform: rotate(-90deg);
     }
 
-    .mainVisual {padding: 80px 0 45px 20%;}
+    .mainVisual-sp {padding: 80px 0 45px 20%;}
 
     .mainVisual_image {
         margin-top: 20%;
@@ -311,7 +311,7 @@ footer {padding: 25px 0;}
         margin-top: 15px;
     }
 
-    .mainVisual_scroll {bottom: 15%;}
+    /*.mainVisual_scroll {bottom: 15%;}*/
 
     .pageUp {
         min-width: 65px;
