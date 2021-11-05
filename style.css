@@ -56,7 +56,7 @@ header {
 
 /*firstView*/
 .mainVisual {
-    height: 100vh;
+    min-height: 100vh;
     overflow: hidden;
     padding: 110px 0 45px 20%;
     position: relative;
