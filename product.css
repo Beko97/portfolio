@@ -43,7 +43,7 @@ header {
 .nav_list {
     display: flex;
     justify-content: flex-end;
-    padding-top: 18px;
+    padding-top: 28px;
 }
 
 .nav_item {

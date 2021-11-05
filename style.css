@@ -124,10 +124,12 @@ h1 {
     margin-top: 45px;
 }
 
-.skill_list li {width: 260px;}
-
 .skill_item {
-    position: relative;}
+    margin-bottom: 10px;
+    position: relative;
+    width: 260px;
+}
+
 /*---skill_item中身---*/
 .skill_tit {
     color: #fff;
