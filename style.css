@@ -119,17 +119,18 @@ h1 {
 .skill_list {
     display: flex;
     flex-wrap: wrap;
-    row-gap: 25px;
     column-gap: 35px;
     justify-content: center;
     margin-top: 45px;
 }
 
 .skill_item {
-    /*margin-bottom: 25px;*/
+    margin-bottom: 25px;
     position: relative;
     width: 260px;
 }
+
+.skill_item:last-of-type {margin-bottom: 0;}
 
 /*---skill_item中身---*/
 .skill_tit {
@@ -227,7 +228,7 @@ font-size: 1.3rem;}
 footer {padding: 25px 0;}
 
 @media screen and (max-width: 767px) {
-    .container {padding: 145px 10px 45px 10px;}
+    .container {padding: 123px 10px 45px 10px;}
 
     nav {
         height: 100%;
