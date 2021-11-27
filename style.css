@@ -156,7 +156,9 @@ h1 {
     top: 37%;
 }
 
-.skill_text-top {top: 33%;}
+.skill_text-top {top: 44%;}
+
+.skill_text-top2 {top: 33%;}
 
 .skill_tit, .skill_text {position: absolute;}
 
