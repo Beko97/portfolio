@@ -317,7 +317,9 @@ footer {padding: 25px 0;}
         margin-top: 15px;
     }
 
-    /*.mainVisual_scroll {bottom: 15%;}*/
+    .about_textBox {width: 86%;}
+
+    .about_image-right {margin-top: 265px;}
 
     .pageUp {
         min-width: 65px;
