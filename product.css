@@ -51,6 +51,8 @@ header {
     margin-right: 60px;
 }
 
+.nav_item:hover {border-bottom: solid 2px #000;}
+
 #hamburger {display: none;}
 
 /*product*/
