@@ -192,10 +192,12 @@ h1 {
 
 .product_list-flex {
     display: flex;
-    margin-top: 45px;
     justify-content: space-around;
 }
 
+.product_item-center {text-align: center;}
+
+.productItem_banner {margin-top: 10px;}
 
 /*about*/
 .abouts {
